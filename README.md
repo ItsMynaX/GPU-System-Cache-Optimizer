@@ -17,7 +17,7 @@ A lightweight, high-performance utility designed to optimize GPU memory (VRAM) a
 3.  Select an option from the menu:
     * `1`: Use this if your screen feels laggy or VRAM is full.
     * `2`: Use this for general maintenance.
-    * `3`: Use this if you experience stutters in games like *Roblox* or *Red Alert 2*.
+    * `3`: Use this if you experience stutters in games 
 4.  Follow the on-screen prompts.
 
 ## ⚠️ Important Notes
